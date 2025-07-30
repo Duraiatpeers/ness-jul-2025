@@ -10,12 +10,13 @@ def get_test_data():
     testdata_workbook = load_workbook(data_file)
     ws = testdata_workbook.active
 
-    print(ws['A1'])
-    print(ws['A1'].value)
+    # print(ws['A1'])
+    # print(ws['A1'].value)
+    # print(ws['B1'].value)
+
+    for data in ws.iter_rows(values_only=True):
+        print(data)
+
     return test_data
 
 get_test_data()
-# @pytest.mark.parametrize('username,password',get_test_data())
-# def test_param(username,password):
-#     print(username)
-#     print(password)

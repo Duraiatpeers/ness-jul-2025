@@ -1,0 +1,13 @@
+Chrome driver:
+https://googlechromelabs.github.io/chrome-for-testing/
+
+https://chromedriver.chromium.org/downloads
+
+Edge driver:
+https://developer.microsoft.com/en-in/microsoft-edge/tools/webdriver?form=MA13LH
+
+Selenium Grid:
+https://www.selenium.dev/documentation/grid/getting_started/
+
+Selenium downloads
+https://www.selenium.dev/downloads/

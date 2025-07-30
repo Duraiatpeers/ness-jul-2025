@@ -1,0 +1,5 @@
+2025-07-30 09:51:29,067  - INFO - Informational message - fyr
+2025-07-30 09:51:29,067  - DEBUG - Script flow/traces messages
+2025-07-30 09:51:29,067  - WARNING - Warning messages
+2025-07-30 09:51:29,067  - ERROR - Basic level Error messages
+2025-07-30 09:51:29,067  - CRITICAL - Critical error that needs to be addressed

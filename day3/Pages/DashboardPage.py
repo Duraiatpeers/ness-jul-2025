@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from LPLocators import LPLocators
+from day3.Locators.LPLocators import LPLocators
 
 class DashboardPage:
 

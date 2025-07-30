@@ -1,0 +1,16 @@
+Order can be set using @pytest.mark.order(2)
+plugin to be installed : pytest-order
+
+Plugin to run the tests parallely
+pytest-xdist
+
+Option to run the tests parallely
+-n 3
+
+xdist won't work correctly with default html report
+
+Plugin - allure-pytest
+
+Allure
+https://github.com/allure-framework/allure2/releases
+

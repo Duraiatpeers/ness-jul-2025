@@ -1,9 +1,12 @@
+import allure
 import pytest
 
 
 def get_test_data():
     user_data_list = [('Admin','admin123'),('Tom','welcome123')]
     return user_data_list
+
+@allure.title("Second testcase")
 
 @pytest.mark.parametrize('username,password',get_test_data())
 def test_param(username,password):

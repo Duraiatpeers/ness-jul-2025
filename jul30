@@ -1,0 +1,13 @@
+Include documentation
+Coding standards
+Locator Strategies
+Sync - use wait instead of sleep
+
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://gitlab.stackroute.in/durai/nessdemo
+git push origin master
+
+.gitignore
