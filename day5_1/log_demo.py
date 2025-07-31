@@ -13,3 +13,6 @@ log_obj.debug("Script flow/traces messages")
 log_obj.warning("Warning messages")
 log_obj.error("Basic level Error messages")
 log_obj.critical("Critical error that needs to be addressed")
+
+
+# ref: https://docs.python.org/3/howto/logging.html
